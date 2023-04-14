@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url("../image/nkar1.jpg");
+    background-color: url("../image/nkar1.jpg");
 }
 .d_1{
     position: relative;
