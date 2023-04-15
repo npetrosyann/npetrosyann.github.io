@@ -156,7 +156,6 @@ input[type="date"]{
     border: none;
     border-radius: 6px;
     font-size: 17px;
-    transition: 0.7s;
     position: absolute;
     top: 78%;
     left: 50%;
