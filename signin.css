@@ -158,9 +158,9 @@ input[type="date"]{
     font-size: 17px;
     transition: 0.7s ease-in-out;
     position: absolute;
-    top: 50%;
+    top: 78%;
     left: 50%;
-    transform: translate(-50%,327%);
+    transform: translate(-50%,50%);
 
 }
 .ag_1:hover{
@@ -226,9 +226,9 @@ input[type="date"]{
 }
 .msg{
     position: absolute;
-    top: 50%;
+    top: 90%;
     left: 50%;
-    transform: translate(-50%,965%);
+    transform: translate(-50%,50%);
 }
 h2{
     text-align: center;
