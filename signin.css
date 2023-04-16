@@ -65,7 +65,7 @@ form, label{
 }
 .lolo_1 input:focus ~ label,
 .lolo_1 input:valid ~ label{
-    top: -5;
+    top: -5px;
     color: #2691d9 ;
 
 }
